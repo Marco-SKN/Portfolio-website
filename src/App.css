@@ -303,8 +303,10 @@ section h1 {
 
 .skills-container .skillRow .skillBar .skillFill {
   height: 2rem;
-  text-align: right;
-  border-radius: 15px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border-radius: 12px;
   padding-right: 10px;
   background: var(--accent-color);
   transition: width 2s;
