@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website/static/css/main.824197ef.chunk.css",
+    "main.js": "/Portfolio-website/static/js/main.375f87fe.chunk.js",
+    "main.js.map": "/Portfolio-website/static/js/main.375f87fe.chunk.js.map",
+    "runtime-main.js": "/Portfolio-website/static/js/runtime-main.affc7dce.js",
+    "runtime-main.js.map": "/Portfolio-website/static/js/runtime-main.affc7dce.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/Portfolio-website/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.85d39090.chunk.js": "/Portfolio-website/static/js/2.85d39090.chunk.js",
+    "static/js/2.85d39090.chunk.js.map": "/Portfolio-website/static/js/2.85d39090.chunk.js.map",
+    "index.html": "/Portfolio-website/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/Portfolio-website/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.824197ef.chunk.css.map": "/Portfolio-website/static/css/main.824197ef.chunk.css.map",
+    "static/js/2.85d39090.chunk.js.LICENSE.txt": "/Portfolio-website/static/js/2.85d39090.chunk.js.LICENSE.txt",
+    "static/media/Creative Agency.0e72cb1b.jpg": "/Portfolio-website/static/media/Creative Agency.0e72cb1b.jpg",
+    "static/media/Full moon.3b22fbf4.svg": "/Portfolio-website/static/media/Full moon.3b22fbf4.svg",
+    "static/media/S11_pe.9d7b24c1.jpg": "/Portfolio-website/static/media/S11_pe.9d7b24c1.jpg",
+    "static/media/Task tracker.ebab0743.jpg": "/Portfolio-website/static/media/Task tracker.ebab0743.jpg",
+    "static/media/linkedin.f54dd17a.png": "/Portfolio-website/static/media/linkedin.f54dd17a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.affc7dce.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.85d39090.chunk.js",
+    "static/css/main.824197ef.chunk.css",
+    "static/js/main.375f87fe.chunk.js"
+  ]
+}
