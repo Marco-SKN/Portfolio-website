@@ -1,7 +1,7 @@
 import { useState } from "react";
 import ScrollTrigger from "react-scroll-trigger";
 
-const Skill_Row = ({ name, num }) => {
+const SkillRow = ({ name, num }) => {
   const [width, setWidth] = useState("0%");
   const myStyle = {
     width: width,
@@ -34,4 +34,4 @@ const Skill_Row = ({ name, num }) => {
   );
 };
 
-export default Skill_Row;
+export default SkillRow;
