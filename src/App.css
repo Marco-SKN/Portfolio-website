@@ -336,6 +336,7 @@ section h1 {
 }
 
 .skills-container {
+  width: 100%;
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -351,12 +352,12 @@ section h1 {
 
 .skills-container .skillRow h4 {
   font-size: 1.2rem;
-  width: 10%;
+  width: 15%;
   text-align: right;
 }
 
 .skills-container .skillRow .skillBar {
-  width: 90%;
+  width: 70%;
   border: 1px solid var(--accent-color);
   border-radius: 15px;
   margin: 0 20px;
@@ -497,11 +498,15 @@ section h1 {
     display: block;
   }
 
-  .skills-container .skillRow h4 {
-    width: 25%;
+  #skills {
+    padding: 5% 2%;
+  }
+
+  /* .skills-container .skillRow h4 {
+    width: 15%;
   }
 
   .skills-container .skillRow .skillBar {
-    width: 75%;
-  }
+    width: 70%;
+  } */
 }
