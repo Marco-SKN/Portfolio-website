@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.824197ef.chunk.css",
-    "main.js": "/static/js/main.375f87fe.chunk.js",
-    "main.js.map": "/static/js/main.375f87fe.chunk.js.map",
+    "main.css": "/static/css/main.ebf66398.chunk.css",
+    "main.js": "/static/js/main.9f327fbc.chunk.js",
+    "main.js.map": "/static/js/main.9f327fbc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e0df60c5.js",
     "runtime-main.js.map": "/static/js/runtime-main.e0df60c5.js.map",
     "static/css/2.ae9e5f60.chunk.css": "/static/css/2.ae9e5f60.chunk.css",
@@ -10,19 +10,25 @@
     "static/js/2.85d39090.chunk.js.map": "/static/js/2.85d39090.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ae9e5f60.chunk.css.map": "/static/css/2.ae9e5f60.chunk.css.map",
-    "static/css/main.824197ef.chunk.css.map": "/static/css/main.824197ef.chunk.css.map",
+    "static/css/main.ebf66398.chunk.css.map": "/static/css/main.ebf66398.chunk.css.map",
     "static/js/2.85d39090.chunk.js.LICENSE.txt": "/static/js/2.85d39090.chunk.js.LICENSE.txt",
+    "static/media/Ballon dOr.af2fc926.jpg": "/static/media/Ballon dOr.af2fc926.jpg",
+    "static/media/Breaking bad.5ee3d52a.jpg": "/static/media/Breaking bad.5ee3d52a.jpg",
     "static/media/Creative Agency.0e72cb1b.jpg": "/static/media/Creative Agency.0e72cb1b.jpg",
+    "static/media/Dad joke.5490aee5.jpg": "/static/media/Dad joke.5490aee5.jpg",
     "static/media/Full moon.3b22fbf4.svg": "/static/media/Full moon.3b22fbf4.svg",
+    "static/media/My picture.7e5b87be.png": "/static/media/My picture.7e5b87be.png",
+    "static/media/Randomizer.7ce87064.JPG": "/static/media/Randomizer.7ce87064.JPG",
     "static/media/S11_pe.9d7b24c1.jpg": "/static/media/S11_pe.9d7b24c1.jpg",
     "static/media/Task tracker.ebab0743.jpg": "/static/media/Task tracker.ebab0743.jpg",
-    "static/media/linkedin.f54dd17a.png": "/static/media/linkedin.f54dd17a.png"
+    "static/media/linkedin.f54dd17a.png": "/static/media/linkedin.f54dd17a.png",
+    "static/media/xbox ps.3ed4702f.jpg": "/static/media/xbox ps.3ed4702f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e0df60c5.js",
     "static/css/2.ae9e5f60.chunk.css",
     "static/js/2.85d39090.chunk.js",
-    "static/css/main.824197ef.chunk.css",
-    "static/js/main.375f87fe.chunk.js"
+    "static/css/main.ebf66398.chunk.css",
+    "static/js/main.9f327fbc.chunk.js"
   ]
 }
