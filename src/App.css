@@ -122,7 +122,7 @@ nav {
   font-size: 1.5rem;
 }
 
-.nav-link {
+nav .nav-link {
   color: white;
   text-decoration: none;
   font-weight: bold;
@@ -232,6 +232,11 @@ nav {
   white-space: nowrap;
 }
 
+.hamburger ul li .nav-link {
+  display: block;
+  padding-left: 30px;
+}
+
 .hamburger ul li svg {
   margin-right: 20px;
 }
@@ -283,7 +288,7 @@ section {
   overflow: hidden;
 }
 
-section:nth-child(odd) {
+section:nth-child(even) {
   background: var(--secondary-color);
 }
 
@@ -425,6 +430,10 @@ section h1 {
 
 .portfolio-container .project:hover .launch {
   opacity: 1;
+}
+
+#portfolio h3 a {
+  color: var(--accent-color);
 }
 
 /* Contact */
