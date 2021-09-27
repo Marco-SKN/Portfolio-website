@@ -8,12 +8,12 @@ const Skills = () => {
       <h1>Skills</h1>
       <Controller>
         <div className="skills-container">
-          <SkillRow name="CSS" num={6} />
+          <SkillRow name="CSS" num={6.5} />
           <SkillRow name="HTML" num={7} />
           <SkillRow name="Java" num={5} />
-          <SkillRow name="Javascript" num={6} />
-          <SkillRow name="NodeJs" num={5} />
-          <SkillRow name="ReactJs" num={5} />
+          <SkillRow name="Javascript" num={7} />
+          <SkillRow name="NodeJs" num={6} />
+          <SkillRow name="ReactJs" num={6} />
         </div>
       </Controller>
     </section>
