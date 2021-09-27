@@ -351,12 +351,12 @@ section h1 {
 
 .skills-container .skillRow h4 {
   font-size: 1.2rem;
-  width: 15%;
+  width: 10%;
   text-align: right;
 }
 
 .skills-container .skillRow .skillBar {
-  width: 85%;
+  width: 90%;
   border: 1px solid var(--accent-color);
   border-radius: 15px;
   margin: 0 20px;
@@ -495,5 +495,13 @@ section h1 {
   }
   .hamburger ul {
     display: block;
+  }
+
+  .skills-container .skillRow h4 {
+    width: 25%;
+  }
+
+  .skills-container .skillRow .skillBar {
+    width: 75%;
   }
 }
