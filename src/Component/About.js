@@ -1,5 +1,4 @@
 import { useEffect } from "react";
-import { LoremIpsum } from "react-lorem-ipsum";
 import myPicture from "../Image/My picture.png";
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -9,7 +8,7 @@ const About = () => {
     Aos.init({ duration: 2000 });
   }, []);
 
-  const text = `I am a full stack web developer with knowledge in the MERN stack. I have just started my journey in web development after graduation last year and enjoy building beautiful responsive webpage in my free time with react. I value simple content structure, clean design patterns, and thoughtful interactions to build a good UI/UX.`;
+  const text = `I am a full stack web developer with knowledge in the MERN stack. I enjoy building beautiful responsive webpage in my free time with react. I value simple content structure, clean design patterns, and thoughtful interactions to build a good UI/UX.`;
 
   return (
     <section id="about">

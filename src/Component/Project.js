@@ -11,7 +11,9 @@ const Project = ({ image, link, language }) => {
     <div className="project" data-aos="zoom-in">
       <img src={image} alt="" />
       <div className="launch">
-        <a href={link}>Launch</a>
+        <a href={link} target="_blank" rel="noopener noreferrer">
+          Launch
+        </a>
         <span>{language}</span>
       </div>
     </div>

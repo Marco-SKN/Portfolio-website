@@ -1,4 +1,3 @@
-import { useState } from "react";
 import NavLink from "./NavLink";
 
 const Hamburger = ({ ulTop, hideNav }) => {

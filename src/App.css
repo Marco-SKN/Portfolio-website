@@ -438,9 +438,16 @@ section h1 {
 }
 
 /* Contact */
-.contact {
+#contact {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.footer {
   width: 100vw;
-  padding: 5% 10%;
+  padding: 2% 10%;
   display: flex;
   justify-content: space-between;
   width: 100%;
@@ -449,37 +456,49 @@ section h1 {
   background-color: var(--accent-color);
 }
 
-.contact .email {
+.footer .email {
   margin-bottom: 30px;
 }
 
-.contact .email span:hover {
+.footer .email span:hover {
   color: var(--primary-color);
 }
 
-.contact .email p {
+.footer .email p {
   font-size: 5rem;
-  margin-bottom: 30px;
   cursor: default;
+  font-weight: normal;
+  padding: 0;
 }
 
-.contact .email a {
+.footer .email a {
   font-size: 1.2rem;
   font-weight: 600;
   text-decoration: underline;
   color: var(--primary-color);
 }
 
-.contact .socials {
+.footer .email a:hover {
+  color: white;
+}
+
+.footer .socials {
   display: flex;
   align-items: flex-end;
   margin-bottom: 30px;
 }
 
-.contact .socials img {
+.footer .socials img {
   height: 3rem;
   width: 3rem;
   margin-left: 1rem;
+}
+
+.contact p {
+  background: var(--accent-color);
+  padding-bottom: 30px;
+  text-align: center;
+  font-weight: bold;
 }
 
 @media (max-width: 800px) {
