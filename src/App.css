@@ -219,6 +219,7 @@ nav .nav-link {
   display: none;
   z-index: 9;
   transition: 0.7s ease-out;
+  border-top: 1px solid white;
 }
 
 .hamburger ul li {
@@ -439,25 +440,20 @@ section h1 {
 
 /* Contact */
 #contact {
+  width: 100vw;
+  padding: 3% 10%;
   display: flex;
   flex-direction: column;
-  height: 100%;
-  width: 100%;
-}
-
-.footer {
-  width: 100vw;
-  padding: 2% 10%;
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-  flex-wrap: wrap;
   overflow: hidden;
   background-color: var(--accent-color);
 }
 
-.footer .email {
-  margin-bottom: 30px;
+.footer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-bottom: 20px;
+  background-color: var(--accent-color);
 }
 
 .footer .email span:hover {
@@ -465,10 +461,10 @@ section h1 {
 }
 
 .footer .email p {
-  font-size: 5rem;
+  font-size: 4rem;
   cursor: default;
   font-weight: normal;
-  padding: 0;
+  padding-bottom: 10px;
 }
 
 .footer .email a {
@@ -485,7 +481,6 @@ section h1 {
 .footer .socials {
   display: flex;
   align-items: flex-end;
-  margin-bottom: 30px;
 }
 
 .footer .socials img {
@@ -495,8 +490,6 @@ section h1 {
 }
 
 .contact p {
-  background: var(--accent-color);
-  padding-bottom: 30px;
   text-align: center;
   font-weight: bold;
 }
@@ -519,6 +512,10 @@ section h1 {
 
   #skills {
     padding: 5% 2%;
+  }
+
+  #contact {
+    padding: 3% 5%;
   }
 
   /* .skills-container .skillRow h4 {
